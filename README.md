@@ -1,2 +1,2 @@
 # ADC
-Advanced Digital COmmunication
+Advanced Digital Communication
